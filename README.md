@@ -1,6 +1,6 @@
 # The Banana index
 
-This repository contains the data behind The Economist’s Banana index. To download the data, go to the latest release, where you can download the index data as a CSV file and open it in your program of choice, such as Excel or Google Sheets.
+This repository contains the data behind The Economist’s Banana index. To download the data, go to [the latest release](https://github.com/TheEconomist/banana-index-data/releases), where you can download the index data as a CSV file and open it in your program of choice, such as Excel or Google Sheets.
 
 ## Methodology
 The banana index gives the greenhouse-gas emissions of foods - by weight, calorie, or protein - by their equivalent in bananas. Greenhouse-gas emissions are in CO2-equivalents, with non-CO2 gases converted according to the amount of warming they cause over a 100-year timescale. 
