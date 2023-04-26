@@ -1,6 +1,6 @@
 # The Banana index
 
-This repository contains the data behind The Economist’s Banana index. To download the data, go to [the latest release](https://github.com/TheEconomist/banana-index-data/releases), where you can download the index data as a CSV file and open it in your program of choice, such as Excel or Google Sheets.
+This repository contains the data behind The Economist’s Banana index - first unveiled in our article ["A different way to measure the climate impact of food"](https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food). To download the data, go to [the latest release](https://github.com/TheEconomist/banana-index-data/releases), where you can download the index data as a CSV file and open it in your program of choice, such as Excel or Google Sheets.
 
 ## Methodology
 The banana index gives the greenhouse-gas emissions of foods - by weight, calorie, or protein - by their equivalent in bananas. Greenhouse-gas emissions are in CO2-equivalents, with non-CO2 gases converted according to the amount of warming they cause over a 100-year timescale. 
@@ -11,3 +11,6 @@ Mathematically, this means that for a given metric, the banana score is the rati
 * [Our World in Data (2023). Data Explorer: Environmental Impacts of Food](https://ourworldindata.org/explorers/food-footprints)
 * [M. Clark et al. (2022). Estimating the environmental impacts of 57,000 food products.](https://www.pnas.org/doi/full/10.1073/pnas.2120584119)
 * [Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992.](https://www.science.org/doi/10.1126/science.aaq0216) 
+
+## Suggested citation
+The Economist and Solstad, S. (corresponding author), 2023. The Economist's Banana index. [online] The Economist. Available at: https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food [Accessed ---]. First published in the article "A different way to measure the climate impact of food", The Economist, April 11, 2023.
