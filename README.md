@@ -13,4 +13,4 @@ Mathematically, this means that for a given metric, the banana score is the rati
 * [Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992.](https://www.science.org/doi/10.1126/science.aaq0216) 
 
 ## Suggested citation
-The Economist and Solstad, S. (corresponding author), 2023. The Economist's Banana index. [online] The Economist. Available at: https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food [Accessed ---]. First published in the article "A different way to measure the climate impact of food", The Economist, April 11, 2023.
+The Economist and Solstad, S. (corresponding author), 2023. The Economist's Banana index. First published in the article "A different way to measure the climate impact of food", The Economist, April 11, 2023.
