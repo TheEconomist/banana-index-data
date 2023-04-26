@@ -14,3 +14,5 @@ Mathematically, this means that for a given metric, the banana score is the rati
 
 ## Suggested citation
 The Economist and Solstad, S. (corresponding author), 2023. The Economist's Banana index. First published in the article "A different way to measure the climate impact of food", The Economist, April 11, 2023.
+
+(We also encourage you to cite our data sources.)
